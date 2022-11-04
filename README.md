@@ -1,7 +1,7 @@
 ### Ola! Eu sou Felipe Steffan
 
 - 🔭 Buscando minha primeira oportunidade como desenvolvedor
-- 🌱 Atualmente estudo Java Spring Boot e Python 
+- 🌱 Estudando Java Spring Boot e Python 
 
 <div align="center">
   <a href="https://github.com/fehsteffan">
